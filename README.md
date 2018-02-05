@@ -1,4 +1,4 @@
-# sekolah
+# School
 
 Project E-School
 
